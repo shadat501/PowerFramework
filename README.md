@@ -2,6 +2,7 @@ PowerFramework
 ==============
 
 PowerFramework is a free framework to use on your website template . its based on bootstrap , animate.css , and jQuery library . 
+
 Usage
 ==============
 add your section like so ...
@@ -20,3 +21,12 @@ add your section like so ...
             <!-- /.container -->
         </section>
 <!--    / END home area section-->
+```
+
+source and credits
+==============
+1. animation.css
+2. bootstrap
+3. jQuery
+4. google font
+....... and many more
