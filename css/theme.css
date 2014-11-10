@@ -1,0 +1,8 @@
+/*this file is containing all of your theme style and modification*/
+
+.themeName-site-heading{
+	background: red;
+}
+.themeName-subheading{
+	color: #333;
+}
